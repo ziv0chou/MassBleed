@@ -33,3 +33,4 @@ REQUIREMENTS:
  Is nmap installed?
  Is sslscan installed?
 
+SSL 漏洞检测工具
